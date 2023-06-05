@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StreamingAlgorithms": {
+      "commandName": "Project"
+    },
+    "StreamingAlgorithms_Test": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreamingAlgorithms", "StreamingAlgorithms\StreamingAlgorithms.csproj", "{77C4B800-16EE-47BC-90CF-845AAF9079A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreamingAlgorithms_Test", "StreamingAlgorithms_Test\StreamingAlgorithms_Test.csproj", "{C8DB0CB0-51FF-4C65-8CA6-27CC1FA22B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C4B800-16EE-47BC-90CF-845AAF9079A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C4B800-16EE-47BC-90CF-845AAF9079A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C4B800-16EE-47BC-90CF-845AAF9079A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C4B800-16EE-47BC-90CF-845AAF9079A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8DB0CB0-51FF-4C65-8CA6-27CC1FA22B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8DB0CB0-51FF-4C65-8CA6-27CC1FA22B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8DB0CB0-51FF-4C65-8CA6-27CC1FA22B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8DB0CB0-51FF-4C65-8CA6-27CC1FA22B70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15AA3B07-B2C2-4324-97F7-5266145629DA}
+	EndGlobalSection
+EndGlobal
